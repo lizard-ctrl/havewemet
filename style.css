@@ -1,0 +1,371 @@
+body{
+    background-image: url(images/f4653bb8d5ac48727241c1a1742da545.jpg);
+    background-size: cover;
+    font-family: 'DotGothic16', sans-serif;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    padding: 2%;
+    font-size: 120%;
+    top: 40%;
+    left: 40% !important;
+}
+#process{
+  font-family: 'DotGothic16', sans-serif;
+  padding: 2%;
+  font-size: 120%;
+  position: absolute;
+  top: 5%;
+  
+}
+h2{
+  font-family: 'DotGothic16', sans-serif;
+  padding: 2%;
+  font-size: 120%;
+}
+#info{
+    font-family: 'DotGothic16', sans-serif;
+    position: absolute;
+    display: none;
+    top: 10%;
+    left: 30%;
+    height: 70%;
+    width:40%;
+    border-radius: 25px;
+    border: 2px solid white;
+    overflow:auto;
+    background-color: white;
+    color:white;
+    scrollbar-base-color: black;
+    padding:10px;
+    z-index: 1;
+}
+p{
+    padding: 2%;
+    color: black;
+}
+h2{
+    color: black;
+}
+#x{
+    position: fixed;
+}
+
+
+
+#drag {
+    position: absolute;
+    top:58%; 
+    left: 5%; 
+    width: 100%;
+  }
+ 
+  #drag1 {
+    position: absolute;
+    top: 50%; 
+    left:37%; 
+    width: 105%;
+  }
+  
+
+  #drag2 {
+    position: absolute;
+    top:81%; 
+    left:18%;
+    width: 10%;
+  }
+  
+
+  #drag3 {
+    position: absolute;
+    top:83%; 
+    left:65%; 
+    width: 10%;
+  }
+ 
+
+  #drag4 {
+    position: absolute;
+    top:84%; 
+    left: 4%; 
+    width: 10%;
+  }
+ 
+
+  #drag5 {
+    position: absolute;
+    top:85%; 
+    left:93%;
+  }
+  #drag5>img{
+    width:50%;
+  }
+
+  #drag6 {
+    position: absolute;
+    top:52%; 
+    left:20%;
+  }
+  #drag6>img{
+    width:35%;
+  }
+
+  #drag7 {
+    position: absolute;
+    top:52%; 
+    left:50%; 
+  }
+  #drag7>img{
+    width:60%;
+  }
+
+  #drag8 {
+    position: absolute;
+    top:78%; 
+    left:43%;
+  }
+  #drag8>img{
+    width:90%;
+  }
+
+  #drag9 {
+    position: absolute;
+    top:65%; 
+    left:55%; 
+  }
+  #drag9>img{
+    width:70%;
+  }
+
+  #drag10 {
+    position: absolute;
+    top:63%; 
+    left:43%; 
+  }
+  #drag10>img{
+    width:140%;
+  }
+
+  #drag11 {
+    position: absolute;
+    top:60%; 
+    left:84%; 
+  }
+  #drag11>img{
+    width:130%;
+  }
+
+  #drag12 {
+    position: absolute;
+    top:87%; 
+    left:82%; 
+  }
+  #drag12>img{
+    width:100%;
+  }
+
+  #drag13 {
+    position: absolute;
+    top:65%; 
+    left:32%; 
+  }
+  #drag13>img{
+    width:65%;
+  }
+  #drag14 {
+    position: absolute;
+    top: 75%; 
+    left:75%; 
+  }
+  #drag14>img{
+    width:85%;
+  }
+
+  #drag15 {
+    position: absolute;
+    top:87%; 
+    left:28%;
+  }
+  #drag15>img{
+    width:85%;
+  }
+
+  #drag16 {
+    position: absolute;
+    top:65%; 
+    left:13%; 
+  }
+  #drag16>img{
+    width:35%;
+  }
+
+  #drag17 {
+    position: absolute;
+    top: 61%; 
+    left:68%; 
+  }
+  #drag17>img{
+    width:120%;
+  }
+
+  #drag18 {
+    position: absolute;
+    top:72%; 
+    left:65%; 
+  }
+  #drag18>img{
+    width:43%;
+  }
+
+  #drag19 {
+    position: absolute;
+    top:88%; 
+    left:50%; 
+    width: 10%;
+  }
+  #drag19>img{
+    width:85%;
+  }
+
+  #drag20 {
+    position: absolute;
+    top: 57%; 
+    left:63%; 
+  }
+  #drag20>img{
+    width: 60%;
+  }
+
+  #drag21 {
+    position: absolute;
+    top: 66%; 
+    left:24%; 
+  }
+  #drag21>img{
+    width: 30%;
+  }
+  #drag22 {
+    position: absolute;
+    top:41%; 
+    left:10%;
+   
+  }
+  
+
+  #drag23 {
+    position: absolute;
+    top:90%; 
+    left:75%; 
+    
+  }
+  #drag23>img{
+    width:30%;
+  }
+
+  #drag24 {
+    position: absolute;
+    top:87%; 
+    left: 10%; 
+  }
+  #drag24>img{
+    width:30%;
+  }
+
+  #drag25 {
+    position: absolute;
+    top:68%; 
+    left:88%;
+  }
+  #drag25>img{
+    width:100%;
+  }
+
+  #drag26 {
+    position: absolute;
+    top:48%; 
+    left:30%;
+  }
+  #drag26>img{
+    width:75%;
+  }
+
+  #drag27 {
+    position: absolute;
+    top:63%; 
+    left:78%; 
+  }
+  #drag27>img{
+    width:50%;
+  }
+
+  #drag28 {
+    position: absolute;
+    top:84%; 
+    left:35%;
+  }
+  #drag28>img{
+    width:30%;
+  }
+
+  #drag29 {
+    position: absolute;
+    top:54%; 
+    left:45%; 
+  }
+  #drag29>img{
+    width:40%;
+  }
+
+  #drag30 {
+    position: absolute;
+    top:70%; 
+    left:3%;
+  }
+  #drag30>img{
+    width:30%;
+  }
+
+  #drag31 {
+    position: absolute;
+    top:52%; 
+    left:37%; 
+  }
+  #drag31>img{
+    width:40%;
+  }
+
+  .tooltip {
+  position: relative;
+  display: inline-block;
+  }
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  font-family: 'DotGothic16', sans-serif;;
+  visibility: hidden;
+  width: 190px;
+  font-size: smaller;
+  word-wrap: break-word;
+  background-color: white;
+  color: blue;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+ 
+
+  
+  
+
+

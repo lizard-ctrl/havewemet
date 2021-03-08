@@ -1,0 +1,145 @@
+body{
+    background-color: blue;
+    font-family: 'DotGothic16', sans-serif;
+    /*background-image: url(images/6S5kBIv.jpg);*/
+    background-size: cover;
+}
+pre{
+    color: darkblue;
+    background-color: white;
+}
+#intro{
+    background-color: white;
+    color: darkblue;
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    overflow:auto;
+    scrollbar-base-color: black;
+    z-index: 1;
+}
+#intro:hover{
+    height: 90%;
+}
+h1{
+    padding: 2%;
+}
+p{
+    padding: 2%;
+}
+#scroll1{
+    width: 70%;
+}
+#scroll2{
+    width: 70%;
+}
+#scroll3{
+    width: 70%;
+}
+#scroll4{
+    width: 70%;
+}
+#scroll5{
+    width: 70%;
+}
+#scroll6{
+    width: 70%;
+}
+#screenshots{
+    background-color: white;
+    width: 45%;
+    height: 40%;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    overflow:auto;
+    scrollbar-base-color: black;
+}
+#build1{
+position: absolute;
+top: 80%;
+left: 80%;
+}
+#build1:hover{
+    background-color: darkblue;
+    color: white;
+}
+#build2{
+position: absolute;
+top: 80%;
+left: 50%;
+}
+#build2:hover{
+    background-color: darkblue;
+    color: white;
+}
+#build3{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+
+}
+#build3:hover{
+    background-color: darkblue;
+    color: white;
+}
+#build4{
+  position: absolute;
+    top: 68%;
+    left: 10%;
+}
+#build4:hover{
+    background-color: darkblue;
+    color: white;
+}
+#build5{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+}
+#build5:hover{
+    background-color: darkblue;
+    color: white;
+}
+#build6{
+    position: absolute;
+    top: 40%;
+    left: 2%;
+}
+#build6:hover{
+    background-color: darkblue;
+    color: white;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    }
+  
+  .tooltip .tooltiptext {
+    font-family: 'DotGothic16', sans-serif;;
+    visibility: hidden;
+    width: 280px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -25px;
+    font-size: smaller;
+    word-wrap: break-word;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    border: white;
+    border-style: solid 3px;
+    padding: 2%;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
